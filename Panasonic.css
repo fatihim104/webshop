@@ -1,0 +1,25 @@
+.Panasonic{
+    background-color: #556A73;
+}
+.philips{
+    background-color: #049DBF;
+}
+.Braun{
+    background-color: #595959;
+}
+
+#container{
+    background-color: #373740;;
+    font-size: 1.5em;
+}
+h1,h2,h3,h4,legend{
+    color: #ffe761;
+}
+#ürün{
+    
+    color: rgb(242, 242, 242);
+}
+footer{
+    background-color: #0D0D0D;
+    color: #F2F2F2;
+}

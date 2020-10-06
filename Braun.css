@@ -1,0 +1,28 @@
+.philips{
+    background-color: #049DBF;
+}
+.Braun{
+    background-color: #595959;
+}
+.Panasonic{
+    background-color: #556A73;
+}
+#container{
+    background-color: #F2F2F2;
+    font-size: 1.5em;
+}
+h1,h2,h3,h4,legend{
+    color: #262626;
+}
+#ürün{
+    background-color: #BFA980;
+    color: #0D0D0D;
+    /* font-weight: bold; */
+}
+#form-siparis{
+    background-color: #595959;
+}
+footer{
+    background-color: #0D0D0D;
+    color: #F2F2F2;
+}
